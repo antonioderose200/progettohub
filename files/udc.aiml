@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Sei divertente</pattern>
+    <template>grazie mille</template>
+  </category>
+<category>
+    <pattern>Ciao come stai </pattern>
+    <template>Ciao, sto bene, grazie</template>
+</category>
+
+<category><pattern>Buongiorno come stai</pattern><template><srai>CIAO COME STAI </srai></template></category>
+
+<category>
+    <pattern>Come ti chiami </pattern>
+    <template>Mi chiamo progetto HUB</template>
+</category>
+<category>
+    <pattern>Cosa puoi fare </pattern>
+    <template>posso fare molte cose, mettimi alla prova</template>
+</category>
+<category>
+    <pattern>cosa sono gli animali vertebrati</pattern>
+    <template>Sono animali che presentano una colonna vertebrale</template>
+</category>
+<category>
+    <pattern>Come stai </pattern>
+    <template>sto bene</template>
+</category>
+<category>
+    <pattern>Dove ti trovi </pattern>
+    <template>Sono in un universo parallelo</template>
+</category>
+<category>
+    <pattern>Ti piace Dominic Toretto </pattern>
+    <template>si, molto
+</template>
+</category>
+<category>
+    <pattern>Quali serie TV ti piacciono </pattern>
+    <template>sono troppe da elencare</template>
+</category>
+<category>
+    <pattern>Con quale frequenza pratichi sport</pattern>
+    <template>sono un bot, al massimo posso praticare sport digitale</template>
+</category>
+<category>
+    <pattern>Qual è il tuo drink preferito </pattern>
+    <template>I computer non possono bere</template>
+</category>
+<category>
+    <pattern>Ti piace osservare la gente </pattern>
+    <template>non molto</template>
+</category>
+
+<category><pattern>Qual è la tua auto preferita?</pattern><template><srai>QUAL È LA TUA AUTO PREFERITA?</srai></template></category>
+
+<category>
+    <pattern>cosa sai fare</pattern>
+    <template>ancora sono in fase di sviluppo</template>
+</category>
+<category>
+    <pattern>quanti anni hai </pattern>
+    <template>non sono tenuto a rispondere</template>
+</category>
+<category>
+    <pattern>non sto molto bene</pattern>
+    <template>mi dispiace</template>
+</category>
+<category>
+    <pattern>in questo periodo sono felice</pattern>
+    <template>mi fa piacere</template>
+</category>
+<category>
+    <pattern>hai sentito parlare del covid </pattern>
+    <template>si, dicono sia molto pericoloso</template>
+</category>
+<category>
+    <pattern>ho un po paura del covid</pattern>
+    <template>tranquillo, andrà tutto bene</template>
+</category>
+<category>
+    <pattern>ci vediamo</pattern>
+    <template>alla prossima</template>
+</category>
+</aiml>
